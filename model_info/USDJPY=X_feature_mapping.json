@@ -1,0 +1,22 @@
+{
+    "Feature_0": "USDJPY=X_Open",
+    "Feature_1": "USDJPY=X_High",
+    "Feature_2": "USDJPY=X_Low",
+    "Feature_3": "USDJPY=X_Close",
+    "Feature_4": "USDJPY=X_Volume",
+    "Feature_5": "USDJPY=X_SMA_20",
+    "Feature_6": "USDJPY=X_SMA_50",
+    "Feature_7": "USDJPY=X_SMA_200",
+    "Feature_8": "USDJPY=X_EMA_20",
+    "Feature_9": "USDJPY=X_MACD]",
+    "Feature_10": "USDJPY=X_MACD_Signal]",
+    "Feature_11": "USDJPY=X_MACD_Hist]",
+    "Feature_12": "USDJPY=X_ADX",
+    "Feature_13": "USDJPY=X_Boillinger_High",
+    "Feature_14": "USDJPY=X_Boillinger_Low",
+    "Feature_15": "USDJPY=X_Boillinger_Width",
+    "Feature_16": "USDJPY=X_Boillinger_%b",
+    "Feature_17": "USDJPY=X_RSI",
+    "Feature_18": "USDJPY=X_Stochastic_K]",
+    "Feature_19": "USDJPY=X_Stochastic_D]"
+}

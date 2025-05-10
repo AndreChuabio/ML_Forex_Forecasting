@@ -1,0 +1,22 @@
+{
+    "Feature_0": "EURUSD=X_Open",
+    "Feature_1": "EURUSD=X_High",
+    "Feature_2": "EURUSD=X_Low",
+    "Feature_3": "EURUSD=X_Close",
+    "Feature_4": "EURUSD=X_Volume",
+    "Feature_5": "EURUSD=X_SMA_20",
+    "Feature_6": "EURUSD=X_SMA_50",
+    "Feature_7": "EURUSD=X_SMA_200",
+    "Feature_8": "EURUSD=X_EMA_20",
+    "Feature_9": "EURUSD=X_MACD]",
+    "Feature_10": "EURUSD=X_MACD_Signal]",
+    "Feature_11": "EURUSD=X_MACD_Hist]",
+    "Feature_12": "EURUSD=X_ADX",
+    "Feature_13": "EURUSD=X_Boillinger_High",
+    "Feature_14": "EURUSD=X_Boillinger_Low",
+    "Feature_15": "EURUSD=X_Boillinger_Width",
+    "Feature_16": "EURUSD=X_Boillinger_%b",
+    "Feature_17": "EURUSD=X_RSI",
+    "Feature_18": "EURUSD=X_Stochastic_K]",
+    "Feature_19": "EURUSD=X_Stochastic_D]"
+}
